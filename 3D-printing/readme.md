@@ -9,15 +9,15 @@ All fit on the bed of e.g. a Prusa Mk 3/4 and print without supports.
 
 In addition to the 3D-printed parts, the following additional items are needed:
 
-A window, 53x31 mm, 1-2 mm thick made of some clear plastic  
-Epoxy glue for the window  
-Three M3 threaded inserts, e.g. IUB-M3-1  
-Three M3 x 6 screws for holding the PCB  
-Four square M3 nuts, e.g. Bossard 1092480  
-Four M3 x 20 screws for holding the box together  
-Eight M2.5 x 6 screws for attaching the LCD  
-A micro USB cable  
-Two small cable ties for strain relief of the USB cable  
-Ten DSUB screwlocks, e.g. Amphenol 863001TLF  
-Four panel-mount banana jacks  
-Wires for connecting the connectors to the board  
+- A window, 53x31 mm, 1-2 mm thick made of some clear plastic  
+- Epoxy glue for the window  
+- Three M3 threaded inserts, e.g. IUB-M3-1  
+- Three M3 x 6 screws for holding the PCB  
+- Four square M3 nuts, e.g. Bossard 1092480  
+- Four M3 x 20 screws for holding the box together  
+- Eight M2.5 x 6 screws for attaching the LCD  
+- A micro USB cable  
+- Two small cable ties for strain relief of the USB cable  
+- Ten DSUB screwlocks, e.g. Amphenol 863001TLF  
+- Four panel-mount banana jacks  
+- Wires for connecting the connectors to the board  
