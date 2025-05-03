@@ -1,4 +1,31 @@
+# Layout
+
+The board looks something like this:
+
+<img src="https://github.com/user-attachments/assets/4ccc6f21-f926-4c1b-a432-c2942fb5094f" alt="PCB Rendering" width="600"/>
+
+The board has two layers, where most of the routing and the components are on the top side. The 
+bottom side is mostly ground plane. Here are the layers:
+
+<img src="https://github.com/user-attachments/assets/7ca29294-1ef9-439e-9bff-43012ccb6509" alt="Top layout" width="300"/>
+<img src="https://github.com/user-attachments/assets/0b9e2481-0769-48ce-9101-6f726632f7a8" alt="Bottom layout" width="300"/>
+
+Here is the assembly drawing:
+
+<img src="https://github.com/user-attachments/assets/39de60f4-e358-493e-8203-88676799b689" alt="Assembly drawing" width="600"/>
+
+Vectorized versions are avaialble as PDFs in the repo.
+
+Gerber and assembly files are available in the zip files in the repo. The PCB file is the gerbers for the PCB. 
+The PCA file contains what is needed for assembly.
+
+The bill of materials (BOM) should be self-explanatory.
+
 # Schematic overview
+
+The schematic is available as a single-page PDF in the repo.
+
+<img src="https://github.com/user-attachments/assets/083c931d-f579-4d9e-bdfe-268bfe7c2449" alt="Assembly drawing" width="600"/>
 
 ## Notation
 
