@@ -37,5 +37,5 @@ other orienteering administration software.
 The design is based on a Raspeberry Pi Pico (both the original and Pi Pico 2 works) and the code
 can be compiled in the Arduino environment.
 
-The project contains the source code, files for manufacturing and assmebling the PCB and
+The project contains the source code, files for manufacturing and assembling the PCB and
 files for 3D-printing the enclosure.
